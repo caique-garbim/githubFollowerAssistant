@@ -1,5 +1,7 @@
 # GitHub Follower Assistant
 
+![image](https://user-images.githubusercontent.com/76706456/151356136-8e204017-17a8-406b-b1ec-99dcf6440ee3.png)
+
 EN-US:
 This tool lists users who don't follow you back on GitHub.
 
